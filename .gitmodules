@@ -1,0 +1,8 @@
+[submodule "develops-today-back"]
+	path = develops-today-back
+	url = https://github.com/MatiasBaezaGraf/develops-today-back
+
+[submodule "develops-today-front"]
+	path = develops-today-front
+	url = https://github.com/MatiasBaezaGraf/develops-today-front
+
